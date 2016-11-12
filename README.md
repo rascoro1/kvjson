@@ -2,7 +2,7 @@
 Dealing with Key Value Lists in Json
 
 ```python
-from kvjson
+import kvjson
 
 # Encoding Python Dictionary into JSON Key Value List
 new_dict = {'firstname': 'Andrew', 'middlename': 'James', 'username': 'rascoro1'}
